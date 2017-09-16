@@ -1,0 +1,2 @@
+# FFmpeg_mp4ToH264
+Android平台上使用FFmpeg从Mp4文件中分离H264裸流
